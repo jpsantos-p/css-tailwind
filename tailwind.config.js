@@ -9,6 +9,9 @@ module.exports = {
 
           }
       },
+      screens:{
+        '3x1': '1920px'
+      }
     },
     plugins: [],
   } 
